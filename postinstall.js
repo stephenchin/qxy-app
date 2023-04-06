@@ -12,7 +12,7 @@ var fs = require('fs'),
  * @param{ String } 复制到指定的目录
 08
  */
-var distFolder = '../../../'
+var distFolder = '../../'
 
 var copy = function (src, dst) {
 
