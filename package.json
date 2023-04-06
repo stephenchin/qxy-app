@@ -1,6 +1,6 @@
 {
-  "name": "@whjxtech/app-starter",
-  "version": "0.0.3",
+  "name": "qxy-app",
+  "version": "0.0.1",
   "type": "commonjs",
   "scripts": {
     "npminstall": "npm i",
